@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: silverpaladin-php-wcgi-bb1
+package: silverpaladin/php-wcgi-bb1
